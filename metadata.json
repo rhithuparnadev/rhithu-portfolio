@@ -1,0 +1,9 @@
+
+{
+  "name": "Rhithuparnadev V H Portfolio",
+  "description": "A high-impact, bold portfolio website for Rhithuparnadev V H featuring a bright red aesthetic and AI-powered interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
